@@ -2,7 +2,7 @@ Celine Wedderburn Course: CEN 3024C CRN:23585
 
 Project Description
 -----------------------------
-This purpose of this project is to create a new software system for a local librarie to manage patrons. The system will allow librarians to add patrons, remove patrons via ID, or list all current patrons. 
+This purpose of this project is to create a new software system for a local library to manage patrons. The system will allow librarians to add patrons, remove patrons via ID, or list all current patrons. 
 This system is called the Library Management System. 
 
 Input/Output
